@@ -19,7 +19,7 @@
 
 <h2 align="left">👋 Hi, I’m Muhammad Ikqbal Bin Nordin!<br><br>
 
-<h4 align="left">👨‍💻 I’m a technician at Keysight Technologies with a big dream of becoming a successful software engineer. Currently pursuing a degree in Software Engineering,<br><br>🌟 I’m passionate about coding, and creating innovative solutions to real-world challenges.<br><br>💡 I believe growth happens outside the comfort zone, and I’m always ready to take on new challenges to achieve my goals.<br><br>🚀 If you share a passion for technology, let’s connect, collaborate, and inspire each other along the way!</h4>
+<h4 align="left">👨‍💻 I’m a technician at Keysight Technologies with a big dream of becoming a successful software engineer. Currently studying degree in Software Engineering,<br><br>🌟 I’m passionate about coding, and creating innovative solutions to real-world challenges.<br><br>💡 I believe growth happens outside the comfort zone, and I’m always ready to take on new challenges to achieve my goals.<br><br>🚀 If you share a passion for technology, let’s connect, collaborate, and inspire each other along the way!</h4>
 
 ###
 
