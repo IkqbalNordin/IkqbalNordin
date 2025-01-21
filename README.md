@@ -2,13 +2,13 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt3ZjBpNTU2MnA5bDg0MW8yMTFybXRhaHlrdGM0NDdiOG1meXRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoc2RhM3pwNmU2Z25oMDl6ZmlqMWpmdXNnY282ZGJnYjgycW12biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="37" height="25" alt="visualstudio logo"  />
@@ -17,7 +17,9 @@
 
 ###
 
-<h4 align="left">👋 Hi, I’m Muhammad Ikqbal Bin Nordin!<br><br>👨‍💻 I’m a technician at Keysight Technologies with a big dream of becoming a successful software engineer. Currently pursuing a degree in Software Engineering,<br><br>🌟 I’m passionate about coding, and creating innovative solutions to real-world challenges.<br><br>💡 I believe growth happens outside the comfort zone, and I’m always ready to take on new challenges to achieve my goals.<br><br>🚀 If you share a passion for technology, let’s connect, collaborate, and inspire each other along the way!</h4>
+<h2 align="left">👋 Hi, I’m Muhammad Ikqbal Bin Nordin!<br><br>
+
+<h4 align="left">👨‍💻 I’m a technician at Keysight Technologies with a big dream of becoming a successful software engineer. Currently pursuing a degree in Software Engineering,<br><br>🌟 I’m passionate about coding, and creating innovative solutions to real-world challenges.<br><br>💡 I believe growth happens outside the comfort zone, and I’m always ready to take on new challenges to achieve my goals.<br><br>🚀 If you share a passion for technology, let’s connect, collaborate, and inspire each other along the way!</h4>
 
 ###
 
