@@ -27,6 +27,6 @@
 
 ###
 
-<h5 align="left">🔥   Links : <br>ikqbaldin@gmail.com<br><br> https://www.linkedin.com/in/ikqbal-nordin<br><br> https://www.youtube.com/@IkqbalNordin<br><br> https://my.jobstreet.com/profile/ikqbal-nordin-hQKpk2l4wB</h5>
+<h5 align="left">🔥   Links :<br> <br>ikqbaldin@gmail.com<br><br> https://www.linkedin.com/in/ikqbal-nordin<br><br> https://www.youtube.com/@IkqbalNordin<br><br> https://my.jobstreet.com/profile/ikqbal-nordin-hQKpk2l4wB</h5>
 
 ###
